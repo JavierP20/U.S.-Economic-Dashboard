@@ -12,47 +12,54 @@ The goal of this project is to demonstrate:
 
 ---
 
-## Dashboard Structure
+## Dashboard Pages
 
-### **Page 1 – Overview**
-High-level summary of overall economic conditions using a custom **Economic Index**, supported by key indicator KPIs and trend context.
+### **Overview**
+High-level summary of overall economic conditions using a custom **Economic Index** and key indicators.
 
-### **Page 2 – Inflation**
-Analysis of inflation dynamics using:
-- CPI trends
-- YoY inflation changes
-- Decomposition tree to explore inflation drivers
+![Overview Dashboard](screenshots/overview.png)
 
-### **Page 3 – Labor Market**
-Focused view of labor conditions including:
-- Unemployment trends
-- YoY unemployment changes
-- Labor market driver analysis via decomposition tree
+---
 
-### **Page 4 – GDP**
-Economic growth analysis featuring:
-- GDP trends over time
-- GDP YoY volatility
-- Decomposition of GDP movements relative to other indicators
+### **Inflation**
+Analysis of inflation dynamics using CPI trends, YoY changes, and driver decomposition.
 
-### **Page 5 – Consumer Activity**
-Consumer behavior analysis using:
-- Retail Sales and PCE trends
-- YoY comparisons using small multiples
-- Decomposition of retail sales drivers
+![Inflation Dashboard](screenshots/inflation.png)
 
-### **Page 6 – Markets**
-Market performance analysis centered on:
-- S&P 500 trends and YoY returns
-- Market volatility by year
-- Decomposition of market performance drivers
+---
 
-### **Page 7 – Data Sources & Methodology**
-Documentation of:
-- Data sources
-- Modeling approach
-- Analytical assumptions and limitations
+### **Labor Market**
+Focused view of unemployment trends, YoY changes, and labor market drivers.
 
+![Labor Market Dashboard](screenshots/labor_market.png)
+
+---
+
+### **GDP**
+Economic growth analysis featuring GDP trends, YoY volatility, and macroeconomic context.
+
+![GDP Dashboard](screenshots/gdp.png)
+
+---
+
+### **Consumer Activity**
+Consumer behavior analysis using Retail Sales and PCE trends, YoY comparisons, and decomposition.
+
+![Consumer Activity Dashboard](screenshots/consumer_activity.png)
+
+---
+
+### **Markets**
+Market performance analysis centered on the S&P 500, including trends, YoY returns, and performance drivers.
+
+![Markets Dashboard](screenshots/markets.png)
+
+---
+
+### **Data Sources & Methodology**
+Documentation of data sources, modeling approach, and analytical limitations.
+
+![Methodology](screenshots/methodology.png)
 ---
 
 ## Data Sources
